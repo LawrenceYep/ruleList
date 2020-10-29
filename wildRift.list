@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,riotcdn.net,LOL
-DOMAIN-SUFFIX,wr.pvp.net,LOL
-DOMAIN-SUFFIX,riotgames.com,LOL
-DOMAIN-SUFFIX,akamaihd.net,LOL
+# > wildRift
+DOMAIN-SUFFIX,riotcdn.net,wildRift
+DOMAIN-SUFFIX,wr.pvp.net,wildRift
+DOMAIN-SUFFIX,riotgames.com,wildRift
+DOMAIN-SUFFIX,akamaihd.net,wildRift
